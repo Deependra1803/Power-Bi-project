@@ -1,7 +1,7 @@
 # Power-Bi-project
 An interactive Power BI dashboard to analyze electric vehicle (EV) data.
 
-Tools Used: Power BI, DAX, Data Modeling, Data Visualization
+Tools Used: Power BI, DAX, Data Modeling, Data Visualization.
 
 Project Overview:
 Developed an interactive Power BI report to analyze the electric vehicle (EV) landscape, focusing on Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs). The dashboard provided business insights through key performance indicators (KPIs) related to vehicle distribution, electric range, and market composition.
